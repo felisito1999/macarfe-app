@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/macarfe-app/precache-manifest.47b3efb9a8f7d6c611d2694546ba4ff8.js"
+  "/macarfe-app/precache-manifest.62bf762b788a913aeb2f7cba323d3cec.js"
 );
 
 self.addEventListener('message', (event) => {
